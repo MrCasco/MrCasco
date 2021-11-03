@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 🔭 I’m currently looking for job :)
 - 🌱 I’m currently learning ML
@@ -7,7 +7,7 @@
 
 ### My github stats:  
 
-[![Ernesto Casco's github stats](https://github-readme-stats.vercel.app/api?username=MrCasco&count_private=true&show_icons=true&theme=radical
+[![MrCasco's github stats](https://github-readme-stats.vercel.app/api?username=MrCasco&count_private=true&show_icons=true&theme=radical
 )](https://github.com/MrCasco/github-readme-stats)
 
 ### Connect with me:
