@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m currently looking for job :)
+- 🔭 I’m happily working at Facebook :)
 - 🌱 I’m currently learning ML
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a drummer who loves rock and prog!
