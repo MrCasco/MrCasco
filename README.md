@@ -1,6 +1,7 @@
 ### Hello there 👋
 
 - 🔭 I’m happily working at Facebook :)
+- 📝 My resume can be found [here](https://github.com/MrCasco/cv)
 - 🌱 I’m currently learning ML
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a drummer who loves rock and prog!
